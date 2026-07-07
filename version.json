@@ -1,7 +1,7 @@
 {
-  "latestVersion": "51.0",
-  "minVersion": "51.0",
-  "downloadUrl": "https://github.com/Vltx01/Vx-App/releases/download/v51.0/app-direct-production-release.apk",
-  "checksum": "6793466cfcafa16c1c2d768f2e6d6df17651a63a4d85e78a0522a56550fcd789",
+  "latestVersion": "52.0",
+  "minVersion": "52.0",
+  "downloadUrl": "https://github.com/Vltx01/Vx-App/releases/download/v52.0/app-direct-production-release.apk",
+  "checksum": "691b59c831a8f70580c0a1dc6a72e328a4fa8cc7521a1c0a8a3fe1fc57367caf",
   "releaseNotes": "New release"
 }
