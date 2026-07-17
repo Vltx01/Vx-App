@@ -1,7 +1,7 @@
 {
-  "latestVersion": "52.0",
-  "minVersion": "52.0",
-  "downloadUrl": "https://github.com/Vltx01/Vx-App/releases/download/v52.0/app-direct-production-release.apk",
-  "checksum": "691b59c831a8f70580c0a1dc6a72e328a4fa8cc7521a1c0a8a3fe1fc57367caf",
-  "releaseNotes": "New release"
+  "latestVersion": "53.0",
+  "minVersion": "53.0",
+  "downloadUrl": "https://github.com/Vltx01/Vx-App/releases/download/v53.0/ValetaxApp.apk",
+  "checksum": "f36bf417dcfe3225dde9706a890786d2fd6f3b85cf80c98b0a634f24779b6def",
+  "releaseNotes": "We’ve squashed several bugs to enhance performance and ensure a smoother user experience."
 }
