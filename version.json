@@ -1,7 +1,7 @@
 {
-  "latestVersion": "60.0",
-  "minVersion": "60.0",
-  "downloadUrl": "https://github.com/Vltx01/Vx-App/releases/download/v60.0/ValetaxApp.apk",
-  "checksum": "fbbf463f800111bbb5053f56bc868a42cfa7480436c2d981918c12ca5c3863ca",
+  "latestVersion": "61.0",
+  "minVersion": "61.0",
+  "downloadUrl": "https://github.com/Vltx01/Vx-App/releases/download/v61.0/ValetaxApp.apk",
+  "checksum": "424b169ccb297b9d3ff753883f60c24e08fc6729211e568289734b45dae40b8a",
   "releaseNotes": "We’ve squashed several bugs to enhance performance and ensure a smoother user experience."
 }
